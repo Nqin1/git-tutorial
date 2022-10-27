@@ -1,1 +1,2 @@
-This is the first text document.
+This is the first text document. 
+It has now been edited via the Command line on 2022/10/27 10:59.
